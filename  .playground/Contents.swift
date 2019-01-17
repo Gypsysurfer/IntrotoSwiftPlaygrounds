@@ -9,7 +9,9 @@ var myFirstVariable =  "I've created  my first variable"
 //Declar and assign all in one line
 var mySecondVariable = "and look I added two strings together"
 //Let's add to strings together
-var myThirdVariable = "I've created  my frrst variable"
+var myThirdVariable = myFirstVariable + mySecondVariable
+print(myThirdVariable)
+
 
 
 
