@@ -5,8 +5,8 @@ var str = "Hello, playground"
 //Below we declare and set a variable to date type String
 //var myFirstVariable: String
 //Now we assign variable to a string
-var myFirstVariable =  "I've created  my first variable"
-//Declar and assign all in one line
+var myFirstVariable =  "I've created my first variable"
+//Declare and assign all in one line
 var mySecondVariable = "and look I added two strings together"
 //Let's add to strings together
 var myThirdVariable = myFirstVariable + mySecondVariable
